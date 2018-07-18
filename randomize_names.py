@@ -10,6 +10,7 @@ while i < cycle:
 old_folder = os.getcwd() + name
 if old_folder == True:
         print ('There is same folder, start creating new name...')
+        i=0
         while i < cycle:
                 name =''
                 get_name = random.randint(1,len(alpha)-1)
