@@ -1,5 +1,6 @@
 # Randomize name for new folder
-This program allow you to create new folder with random name using all symbols that can be used in Windows. Language: Python
+This program allow you to create new folder with random name using all symbols that can be used in Windows. 
+Language: Python
 
 # Installation
 Just run it and new folder will be created.
