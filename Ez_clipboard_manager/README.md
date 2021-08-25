@@ -11,7 +11,7 @@ How is it working?
 4) Write text in file + console
 5) If program sniff non-text - write empty line
 6) If python process gonna close - write it.
-7) Opeartion "create/open/close" is marked like "!!!"
+7) Operations create/open/close - will have prefix  "!!!"
 ***
 Installation
 ==============
