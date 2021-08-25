@@ -1,7 +1,7 @@
 A pack of little programs
 =============================
-Just a a place, where i collect my little programs, that are useful for me and (probably) - for u
-
+Just a place, where i collect my little programs, that are useful for me and (probably) - for u.
+And take a place, where i cand find these programs.
 Language: Python
 ***
 Installation
