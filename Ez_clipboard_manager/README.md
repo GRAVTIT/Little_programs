@@ -6,7 +6,7 @@ Ctrl + Space to stop program in background (u can change it)
 How is it working?
 ==============
 1) Make a new file in folder, where is file placed with filename %year-month-day%, where program will write a history of clipboard.
-2) If file created - open it.
+2) If file created - opened it.
 3) Start sniff text clipboard. Format: %hours:minutes:seconds% > %some_text_in_clipboard%
 4) Write text in file + console
 5) If program sniff non-text - write empty line
